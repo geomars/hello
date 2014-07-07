@@ -1,0 +1,3 @@
+graft hello/templates
+graft hello/static
+include hello/schema.sql
